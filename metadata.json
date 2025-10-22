@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Calorie Counter from Photo",
+  "description": "An application that analyzes a photo of a meal to calculate its calories, protein, fat, and carbohydrate content using the Gemini API.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
